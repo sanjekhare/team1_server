@@ -1,3 +1,7 @@
+# Connect beagleBone & be connected to net & then run this file ,Run setup.sh
+
+
+
 #!/bin/bash
 
 #!/bin/bash
