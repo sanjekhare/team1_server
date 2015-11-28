@@ -1,0 +1,9 @@
+[Unit]
+Description=TJ's WeatherServer 
+
+[Service]
+WorkingDirectory=/root/WeatherServer
+ExecStart=/usr/local/bin/phant
+
+[Install]
+WantedBy=multi-user.target
